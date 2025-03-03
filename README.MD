@@ -1,4 +1,5 @@
 <h1 align="center">Olá 👋, sou Jorge Diego</h1>
+<h3 align="center">Apasionado por programação e Ciencia em Dados</h3>
 
 Analista de Sistemas formado e estudante de Ciência de Dados na Universidade Unicesumar.
 
@@ -8,7 +9,6 @@ Atuação sólida como Analista de Dados, com habilidades em ferramentas e tecno
 
 Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomia, aliando competências técnicas a boas práticas de atendimento ao usuário e foco em resultados.
 
-<h3 align="center">Apasionado por programação e Ciencia em Dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdsala&label=Profile%20views&color=0e75b6&style=flat" alt="jdsala" /> </p>
 
