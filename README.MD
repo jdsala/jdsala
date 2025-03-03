@@ -1,4 +1,13 @@
 <h1 align="center">Olá 👋, sou Jorge Diego</h1>
+
+Analista de Sistemas formado e estudante de Ciência de Dados na Universidade Unicesumar.
+
+Desenvolvedor com experiência em linguagens de programação orientadas a objetos, incluindo C# .NET e Java, além de conhecimento em Front-End (HTML, CSS, JavaScript).
+
+Atuação sólida como Analista de Dados, com habilidades em ferramentas e tecnologias como ETL, Power BI, PL/SQL, T-SQL, MySQL, PostgreSQL, Excel, Pentaho e Python. Atualmente, em processo de especialização em Banco de Dados NoSQL (MongoDB).
+
+Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomia, aliando competências técnicas a boas práticas de atendimento ao usuário e foco em resultados.
+
 <h3 align="center">Apasionado por programação e Ciencia em Dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdsala&label=Profile%20views&color=0e75b6&style=flat" alt="jdsala" /> </p>
