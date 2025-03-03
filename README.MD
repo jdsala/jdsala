@@ -14,17 +14,6 @@
 - 📫 Como voçe me encontra **jd83sala@hotmail.es**
 
 - 📄 jdsala [https://github.com/jdsala](https://github.com/jdsala)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
