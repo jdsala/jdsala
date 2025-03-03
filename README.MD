@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Jorge Diego</h1>
 <h3 align="center">Apasionado por programação e Ciencia em Dados</h3> 
-<img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJW-n3xBQOpX4U0NfI9IzI8QTp6x29Jb7uIg&s" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif" width="150px"/>
 
 Analista de Sistemas formado e estudante de Ciência de Dados na Universidade Unicesumar.
 
