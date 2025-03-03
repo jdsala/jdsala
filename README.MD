@@ -7,15 +7,13 @@
 
 - 🌱 Atualmente cursando Ciencia em Dados na **Universidade Unicesumar**
 
-- 👯 Estou procurando colaborar [Em ciencia de Dados - Estadisticas](Data-Science)
-
-- jdsala [https://github.com/jdsala](https://github.com/jdsala)
+- 👯 Estou procurando colaborar **Em ciencia de Dados - Estadisticas**
 
 - 💬 Pergunte algo sobre o mim **Desenvolvedor com experiência em linguagens de programação orientadas a objetos, incluindo C# .NET e Java, além de conhecimento em Front-End (HTML, CSS, JavaScript).**
 
 - 📫 Como voçe me encontra **jd83sala@hotmail.es**
 
-- 📄 Conheça minhas experiências [linkedin.com/in/jorge-diego-chamorro-sala-812268186](linkedin.com/in/jorge-diego-chamorro-sala-812268186)
+- 📄 jdsala [https://github.com/jdsala](https://github.com/jdsala)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
