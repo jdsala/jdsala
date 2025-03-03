@@ -19,17 +19,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/jorge-diego-chamorro-sala-812268186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jorge-diego-chamorro-sala-812268186" height="30" width="40" /></a>
 </p>
-### 📊 Estatísticas
 
+📊 Estatísticas
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
