@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jorge Diego Chamorro Sala</h1>
+<h1 align="center">Hi 👋, I'm Jorge Diego</h1>
 <h3 align="center">Apasionado por programação e Ciencia em Dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdsala&label=Profile%20views&color=0e75b6&style=flat" alt="jdsala" /> </p>
 
 - 🔭 Atualmente trabalho em analises de Dados [Analises_dataset-Heart-Disease](Analises_dataset-Heart-Disease)
 
-- 🌱 Atualmente cursando Ciencia em Dados **Universidade Unicesumar**
+- 🌱 Atualmente cursando Ciencia em Dados na **Universidade Unicesumar**
 
-- 👯 Estou procurando colaborar **Em ciencia de Dados - Estadisticas**
+- 👯 Estou procurando colaborar [Em ciencia de Dados - Estadisticas](Data-Science)
+
+- jdsala [https://github.com/jdsala](https://github.com/jdsala)
 
 - 💬 Pergunte algo sobre o mim **Desenvolvedor com experiência em linguagens de programação orientadas a objetos, incluindo C# .NET e Java, além de conhecimento em Front-End (HTML, CSS, JavaScript).**
 
