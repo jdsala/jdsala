@@ -47,6 +47,7 @@ Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomi
 
 </a>
 
- <a href="https://linkedin.com/in/linkedin.com/in/jorge-diego-chamorro-sala-812268186"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+ <a href="https://linkedin.com/in/linkedin.com/in/jorge-diego-chamorro-sala-812268186"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
 </p>
 
