@@ -38,13 +38,11 @@ Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomi
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-<a href="https://www.linkedin.com/in/jorge-diego-chamorro-sala-812268186/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="linkedin.com/in/jorge-diego-chamorro-sala-812268186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jorge-diego-chamorro-sala-812268186" height="30" width="40" />
+<a href="https://www.linkedin.com/in/jorge-diego-chamorro-sala-812268186/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </a>
 </p>
 
