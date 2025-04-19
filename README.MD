@@ -21,8 +21,6 @@ Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomi
 
 - 💬 Pergunte algo sobre o mim **Desenvolvedor com experiência em linguagens de programação orientadas a objetos, incluindo C# .NET e Java, além de conhecimento em Front-End (HTML, CSS, JavaScript).**
 
-- 📫 Como voçe me encontra **jd83sala@hotmail.es**
-
 - 📄 jdsala [https://github.com/jdsala](https://github.com/jdsala)
 
 <h3 align="left">🤖 Linguagens e Tecnologias:</h3>
@@ -42,7 +40,7 @@ Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomi
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 </a>
 </p>
 
