@@ -40,7 +40,7 @@ Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomi
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 </a>
 </p>
 
