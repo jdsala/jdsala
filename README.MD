@@ -13,9 +13,7 @@ Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdsala&label=Profile%20views&color=0e75b6&style=flat" alt="jdsala" /> </p>
 
-- 🔭 Atualmente trabalho em analises de Dados [Analises_dataset-Heart-Disease](Analises_dataset-Heart-Disease)
-
-- 🌱 Atualmente cursando Ciencia em Dados na **Universidade Unicesumar**
+- 🔭 Atualmente trabalho em analises de Dados e analista de integração de sistemas
 
 - 👯 Estou procurando colaborar **Em ciencia de Dados - Estadisticas**
 
@@ -40,7 +38,8 @@ Destaco-me por um bom domínio no gerenciamento de trabalho em equipe e autonomi
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
-
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30>
+  </a>
 </p>
 
